@@ -1,0 +1,30 @@
+Jin Jin Heipler
+Prof. Harris
+IGME102
+29 April 2018
+
+Final Project Documentation
+
+Description:
+- Social media/phone themed
+- Imported 4 external background images (screenshots): Home screen, Facebook, Twitter, Instagram
+- Imported external images of the app icons
+- DoHyeon font imported
+- 3 text files imported for the word array
+- 3 global variable objects
+    - One to handle the apps and their properties
+    - One that handles background images and fonts
+    - One that handles the changing elements like the app that is     selected and whether or not the icon should be visible
+- Class created to create App objects
+- Radio used to change between apps
+- App icon changes based on mouse location
+    - Utilizes typography/words and pixels[] to create the app out of words
+    - Mouse cursor changes to hand when hovered over app icon 
+- When mouse is pressed (and held) on the icon, words break apart and expand using a higher-order function (forEach)
+- When the user clicks and drags the screen, the background returns to the home screen again
+
+User responsibilities:
+The user can click on which app they want to show using the radio. They can also hover over the app icon, which changes the pixels into letters/words. When the user clicks and holds the app icon made out of letters/words, the words will appear to break apart and the background will change to the home screen of the respective app. When the user clicks and drags the screen, it goes back to the home screen.
+
+Known canveats:
+None. Everything works as planned.
