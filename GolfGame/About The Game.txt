@@ -1,0 +1,16 @@
+	
+	Over the summer of 2017, I attended the Champlain College Game Academy. At this two week on-campus program, we worked collaboratively 
+in teams of 3-4 to create one game to present at the end of the academy. My team was made up of four people: an artist, a game designer, and
+two programmers. Together we made a game called "Mini Savage: Golf Edition", which features a golf ball that is controlled by the player in a
+fast-paced obstacle course type game. This game was made in Unity and programmed using the language C#.
+
+	The artwork of the home page and the controls page, the modeling of the club, golf ball, flag, and mat were all done by our artist.
+The level design of the courses were done by our game designer. All of the programming aspects, from the movement of the club; the player
+controls; the "loser meter"; the sound; the interaction of the buttons; etc., were completed by myself and the other programmer in our 
+group, with assistance from the TAs and RAs that were there. 
+
+	Enjoy!
+
+** The game can be played by clicking on the .exe file in the "GolfGame" folder. There is a folder that features solely some screencaps of
+the game. In the folder "Code Files", there are the scripts used in the game as CS files. Within that folder, there is another folder titled
+"Game Code", which contains all of the code as easily viewable PDFs **
